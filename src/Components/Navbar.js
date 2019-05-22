@@ -34,11 +34,11 @@ const Navbar = () => {
             <nav className="navbar navbar-dark sticky-top navbar-expand-md bg-info"  color-on-scroll="300">
                 <div className="container">
                     <div className="navbar-translate">
-                        <Link className="navbar-brand" to="/">Home</Link>
-                        <Link className="navbar-brand" to="/About">About</Link>
-                        <Link className="navbar-brand" to="/mainDirectory">Directory</Link>
-                        <Link className="navbar-brand" to="/DeepTherapy">Deep Therapy</Link>
-                        <Link className="navbar-brand" to="/Contact">Contact</Link>
+                        <Link className="navbar-brand" to="/drrobot3/">Home</Link>
+                        <Link className="navbar-brand" to="/drrobot3/About">About</Link>
+                        <Link className="navbar-brand" to="/drrobot3/mainDirectory">Directory</Link>
+                        <Link className="navbar-brand" to="/drrobot3/DeepTherapy">Deep Therapy</Link>
+                        <Link className="navbar-brand" to="/drrobot3/Contact">Contact</Link>
                         
                     </div>
                     <div className="collapse navbar-collapse" id="navbarToggler">

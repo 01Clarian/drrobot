@@ -14,11 +14,11 @@ const Routes = () => (
     <div>
         <Navbar />
             <Switch>
-                <Route exact path='/' component={Home} />
-                <Route  path='/maindirectory' component={MainDirectory} />
-                <Route  path='/contact' component={Contact} />
-                <Route  path='/about' component={About} />
-                <Route  path='/deeptherapy' component={DeepTherapy} />
+                <Route exact path='/drrobot3/' component={Home} />
+                <Route  path='/drrobot3/maindirectory' component={MainDirectory} />
+                <Route  path='/drrobot3/contact' component={Contact} />
+                <Route  path='/drrobot3/about' component={About} />
+                <Route  path='/drrobot3/deeptherapy' component={DeepTherapy} />
                 <Route component={NoMatch} />
             </Switch>
         <Footer />
