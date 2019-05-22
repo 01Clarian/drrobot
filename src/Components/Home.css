@@ -1,0 +1,73 @@
+
+.section {
+    background-image: url(../Media/bg1.png);
+    background-size: cover;
+  }
+  .moving-clouds {
+    background-image: url(https://cdn.rawgit.com/creativetimofficial/paper-kit/bootstrap4-development/assets/img/clouds.png); 
+  }
+
+.newFont {
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+.start {
+  position: absolute;
+  z-index: 100;
+  bottom: 140px;
+  opacity: 0.8;
+}
+
+  h1 {
+    font-size: 6.4vw !important;
+    justify-content: center
+
+  }
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+
+.buttonPos {
+    position: absolute;
+    top: 50%;
+}
+
+.highlight {
+  color:rgb(223, 80, 80);
+  opacity:0.9;
+
+}
+
+.highlight2 {
+  color:rgb(233, 165, 62);
+  opacity:0.4;
+
+}
+.highlight4 {
+  opacity:0.4;
+
+}
+
+.blue1 {
+  color:blue;
+  opacity:0.9;
+
+}
+.blue2 {
+  color:rgb(0, 102, 255);
+  opacity:0.9;
+
+}
+
+.back3 {
+  background-image: url(../Media/back_3.jpeg);
+  background-size: cover;}
+
+
+.back4 {
+  background-image: url(../Media/hero_bg_4.jpg);
+  background-size: cover;
+}

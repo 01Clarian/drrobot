@@ -1,13 +1,40 @@
 {
+  "homepage": "http://01Clarian.github.io/drrobot6",
   "name": "ibmwatson",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "elizabot": "0.0.2",
+    "emailjs": "^2.2.0",
+    "express": "^4.16.4",
+    "express-rate-limit": "^3.5.1",
+    "express-secure-only": "^0.2.1",
+    "lodash.debounce": "^4.0.8",
+    "mdbreact": "^4.13.0",
+    "paper-kit-2": "^2.1.0",
+    "pause": "^0.1.0",
+    "popper": "^1.0.1",
     "react": "^16.8.6",
+    "react-bootstrap-dropdown-menu": "^1.1.15",
+    "react-chat-window": "^1.2.1",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.1",
+    "react-select": "^2.4.3",
+    "reactstrap": "^8.0.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.87.1",
+    "vcap_services": "^0.7.0",
+    "watson-developer-cloud": "^4.0.1",
+    "watson-speech": "^0.35.11"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -27,5 +54,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
