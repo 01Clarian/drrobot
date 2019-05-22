@@ -14,7 +14,7 @@ export default () => (
         <div className="col-md-8" data-aos="fade-up" data-aos-delay="400">
           <h1 className=" font-weight-light text-uppercase font-weight-bold" style={{opacity:'0.8'}} data-aos="fade-up"><span className="highlight2">A</span><span className="highlight2">I</span> <span className="highlight">R</span>OBOT <span className="highlight4">INTERFACE</span></h1>
           <p className="mb-5 text-white font-weight-bold" data-aos="fade-up" style={{opacity:'0.4'}} data-aos-delay="100">Dr. <span style={{fontSize:'12px'}}> R</span>obot</p>
-          <p data-aos="fade-up" data-aos-delay="200"><Link to="/mainDirectory" className="btn btn-info py-3 px-8 mb-5 text-white"><span style={{opactiy:'0.3'}}>Start Program </span></Link></p>
+          <p data-aos="fade-up" data-aos-delay="200"><Link to="/mainDirectory" className="btn btn-info py-3 px-8 mb-5 text-white">Start Program </Link></p>
         </div>
       </div>
     </div>
