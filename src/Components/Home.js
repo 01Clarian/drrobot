@@ -27,7 +27,7 @@ export default () => (
       <div className="row mb-5">
         
         <div className="col-md-5 ml-auto mb-5 order-md-2" data-aos="fade-up" data-aos-delay="100">
-          <img src="images/img_3.jpg" alt="Image45" className="img-fluid rounded">
+          <img src={require('../Media/img_3.jpg')} alt="Image45" className="img-fluid rounded">
        </img>
         </div>
         <div className="col-md-6 order-md-1" data-aos="fade-up">
