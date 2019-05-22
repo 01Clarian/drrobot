@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter, Route, Switch } from 'react-router-dom';
+import {Route, Switch } from 'react-router-dom';
 import Navbar from './Components/Navbar'
 import Footer from './Components/Footer'
 import Home from './Components/Home';
@@ -13,7 +13,6 @@ import DeepTherapy from './Containers/DeepTherapy'
 const Routes = () => (
     <div>
         <Navbar />
-        <BrowserRouter>    
             <Switch>
                 <Route exact path='/' component={Home} />
                 <Route  path='/maindirectory' component={MainDirectory} />
@@ -22,7 +21,6 @@ const Routes = () => (
                 <Route  path='/deeptherapy' component={DeepTherapy} />
                 <Route component={NoMatch} />
             </Switch>
-            </BrowserRouter>
         <Footer />
     </div>
 );
