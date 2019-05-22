@@ -18,7 +18,7 @@ class Contact extends Component {
     handleFormSubmit( event ) {
             event.preventDefault();
             console.log(this.state);
-            alert("sorry, our server is temporarily unavailable. Please try again later.")
+            alert("Sorry, our server is temporarily unavailable. Please try again later.")
           
               this.setState({
                 formSubmitted: true
