@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "175da830d243cbded2b45f8faf48fbee",
+    "revision": "8ca1b3cbeb6d1a5143c17a78f5663353",
     "url": "/drrobot3/index.html"
   },
   {
-    "revision": "7b630a1f02b07dc20c6f",
+    "revision": "faf14326909f280d0a8c",
     "url": "/drrobot3/static/css/main.7952f9aa.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drrobot3/static/js/2.af46bb73.chunk.js"
   },
   {
-    "revision": "7b630a1f02b07dc20c6f",
-    "url": "/drrobot3/static/js/main.010186ff.chunk.js"
+    "revision": "faf14326909f280d0a8c",
+    "url": "/drrobot3/static/js/main.332b7a4e.chunk.js"
   },
   {
     "revision": "764ec87384e09f4a6358",
