@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/drrobot3/static/css/main.7952f9aa.chunk.css",
+    "main.js": "/drrobot3/static/js/main.010186ff.chunk.js",
+    "main.js.map": "/drrobot3/static/js/main.010186ff.chunk.js.map",
+    "runtime~main.js": "/drrobot3/static/js/runtime~main.aab14bd8.js",
+    "runtime~main.js.map": "/drrobot3/static/js/runtime~main.aab14bd8.js.map",
+    "static/js/2.af46bb73.chunk.js": "/drrobot3/static/js/2.af46bb73.chunk.js",
+    "static/js/2.af46bb73.chunk.js.map": "/drrobot3/static/js/2.af46bb73.chunk.js.map",
+    "index.html": "/drrobot3/index.html",
+    "precache-manifest.af005e6b84dc54cf2c98a475ea65b156.js": "/drrobot3/precache-manifest.af005e6b84dc54cf2c98a475ea65b156.js",
+    "service-worker.js": "/drrobot3/service-worker.js",
+    "static/css/main.7952f9aa.chunk.css.map": "/drrobot3/static/css/main.7952f9aa.chunk.css.map",
+    "static/media/DeepTherapy.css": "/drrobot3/static/media/back_2.54fa672e.jpg",
+    "static/media/bg1.png": "/drrobot3/static/media/bg1.15fea7e5.png",
+    "static/media/mainDirectory.css": "/drrobot3/static/media/bg3.dfd9e43e.jpg",
+    "static/media/Home.css": "/drrobot3/static/media/hero_bg_4.ee895473.jpg",
+    "static/media/img_3.jpg": "/drrobot3/static/media/img_3.b58b2b70.jpg"
+  }
+}
