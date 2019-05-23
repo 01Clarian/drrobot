@@ -45,8 +45,8 @@ var sttAuthService = new AuthorizationV1(
   Object.assign(
     {
   iam_apikey: "nrLqALV8yLmyhTXoIRByykBWvZxXFN925MLzFHLvWocx", // if using an RC service
-      url: "https://stream.watsonplatform.net/speech-to-text/api",
-      iam_apikey_description: "Auto-generated for key 8547f0be-be30-451e-88bd-3428459b9774",
+      url: "TOP SECRET",
+      iam_apikey_description: "Auto-generated for key TOP SECRETY",
       iam_apikey_name: "Auto-generated service credentials",
       iam_role_crn: "crn:v1:bluemix:public:iam::::serviceRole:Manager",
       iam_serviceid_crn: "crn:v1:bluemix:public:iam-identity::a/f00658f9b5584fcbbbcbfc7c2e7a9dfa::serviceid:ServiceId-65182511-a4af-4c08-8a40-d5c4efa64961",
